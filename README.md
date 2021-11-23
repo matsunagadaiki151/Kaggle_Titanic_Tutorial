@@ -1,7 +1,8 @@
 # Titanicのチュートリアルノートブック
 
 ## 更新履歴
-- 11/14 : 一部修正
+- 11/23 : open in colabボタンを追加。その他一部を修正。
+- 11/14 : 一部修正。
 
 ## 概要
 Titanicの簡単な実装が含まれたノートブックです。 
@@ -29,8 +30,8 @@ Answerフォルダには上記3つの解答の他にPyCaretのサンプルコー
 
 1. ノートブックをGoogle Colaboratoryにコピーする。
    1. 本リポジトリから利用したいノートブックのリンクまで移動する。
-   2. 上記URLの`github.com`を`colab.research.google.com/github`に変更する。
-   3. コピーを自身のマイドライブに保存する。
+   2. 画面上部のopen in colabボタンをクリックする。
+   3. colab notebookが表示されるので、コピーを自身のマイドライブに保存する。
 
 2. [Kaggleのページ](https://www.kaggle.com/c/titanic)から、Titanicのデータセットをダウンロードし、Google Driveに保存する。
    - Kaggleのアカウントが未登録の場合は、お手数ですが登録をお願いします。
