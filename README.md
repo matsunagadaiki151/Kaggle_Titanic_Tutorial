@@ -1,3 +1,5 @@
+**Note** : This repository is intended for Japanese users.
+
 # Titanicのチュートリアルノートブック
 
 ## 更新履歴
